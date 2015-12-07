@@ -1,4 +1,3 @@
-#Version:0.1.1
 FROM ubuntu:latest
 
 MAINTAINER voysun "voysun@qq.com"
